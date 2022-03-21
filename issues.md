@@ -1902,3 +1902,17 @@ function useEffect(callback, depArray) {
 10.31 test git
 ```
 
+***
+
+# 计算机基础
+
+## 1 进程和线程
+
+进程：指在系统中运行的一个应用程序，<font color='red'>是系统进行资源分配和调度的基本单位</font>。每个进程都有自己的独立内存空间.
+
+线程：是进程的子任务，进程之内独立执行的一个单元执行流，<font color='red'>是CPU调度和分派的基本单位</font>。
+
+[一篇让你明白进程与线程之间的区别与联系](https://juejin.cn/post/6844903801321685000)
+
+[进程间通信和线程间通信的几种方式](https://www.cnblogs.com/fanguangdexiaoyuer/p/10834737.html#_label5)
+
